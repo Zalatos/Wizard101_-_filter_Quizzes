@@ -1,4 +1,4 @@
-/* global jQuery,selectQuizAnswer,updateQuiz,a */
+/* global jQuery */
 // ==UserScript==
 // @name         WIzard101 - Filter Quizzes
 // @namespace    http://tampermonkey.net/
